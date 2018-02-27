@@ -1,7 +1,7 @@
 # speech-recognition-training-Matlab
  
 Get the code from here: 
-https://gumroad.com/l/qyUGI 
+https://gum.co/sGNbv
  
 Watch code from here 
 https://www.youtube.com/watch?v=lgNPUw4VgWY&t=9s
@@ -11,7 +11,7 @@ The code is implemented in six functions and two scripts one for training and th
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
  
 Hire me directly on freelancer: 
 https://www.freelancer.com/u/AhmedSobhiSaleh 
